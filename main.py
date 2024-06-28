@@ -40,4 +40,4 @@ def main():
 if __name__ == '__main__': 
     while True:    
         main()      
-        time.sleep(3)  # 1 Hour
+        time.sleep(isi)  # 1 Hour
